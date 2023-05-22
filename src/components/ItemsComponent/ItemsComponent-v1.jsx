@@ -38,8 +38,8 @@ const SectionWrapper = styled.section`
 
 const ItemOne = styled.div`
   background-color: #e3e3e3;
-  width: 300px;
-  height: 400px;
+  width: 400px;
+  height: 500px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;

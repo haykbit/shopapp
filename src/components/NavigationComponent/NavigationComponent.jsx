@@ -26,6 +26,9 @@ const SectionWrapper = styled.section`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: sticky;
+  top: 0;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
 `;
 
 const SectionLogo = styled.section``;

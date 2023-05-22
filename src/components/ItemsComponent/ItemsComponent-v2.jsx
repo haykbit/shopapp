@@ -44,12 +44,13 @@ const SectionWrapper = styled.section`
   align-items: center;
   height: 600px;
   gap: 30px;
+  margin-top: 50px
 `;
 
 const Item = styled.div`
   background-color: #e3e3e3;
-  width: 300px;
-  height: 400px;
+  width: 400px;
+  height: 500px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
