@@ -11,7 +11,7 @@ export const NavigationComponent = () => {
         <MenuUnorderedList>
           <MenuListItem>Home</MenuListItem>
           <MenuListItem>Women</MenuListItem>
-          <MenuListItem>Offers</MenuListItem>
+          <MenuListItem>Products</MenuListItem>
           <MenuListItem>Contact</MenuListItem>
         </MenuUnorderedList>
       </MenuWrapper>
