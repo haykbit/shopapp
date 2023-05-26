@@ -1,1 +1,3 @@
 # shopapp
+
+npm install
